@@ -18,6 +18,7 @@ export function listOfTrack() {
       "addTrackToPlaylist",
       "addTrackToPlaylist"
     );
+
     element.append(button);
     elements.append(element);
   }
